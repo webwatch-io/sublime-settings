@@ -1,0 +1,3 @@
+[
+  { "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} }
+]

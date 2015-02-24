@@ -1,0 +1,8 @@
+{
+    "user": {
+        "debug": false,
+        "linters": {},
+        "wrap_find": true
+    },
+    "sublimelinter_notes": false
+}

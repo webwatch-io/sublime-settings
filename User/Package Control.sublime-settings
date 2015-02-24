@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Git",
+		"GitGutter",
+		"JsFormat",
+		"JSHint Gutter",
+		"Package Control",
+		"SFTP",
+		"Theme - Brogrammer",
+		"Theme - Soda"
+	]
+}
